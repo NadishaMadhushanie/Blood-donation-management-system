@@ -1,0 +1,39 @@
+[
+    {
+        "id":0,
+        "key":"පිළිකා\t\t\t\t\t\t\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":1,
+        "key":"වලිප්පුව\t\t\t\t\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":2,
+        "key":"හෘද රෝග\t\t\t\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":3,
+        "key":"දියවැඩියාව\t\t\t\t\t​\t\t",
+        "checked":false
+    },{
+        "id":4,
+        "key":"අංශභාගය\t\t\t\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":5,
+        "key":"රුධිර රෝග\t\t\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":6,
+        "key":"අක්මා රෝග\t\t\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":7,
+        "key":"වකුගඩු රෝගය\t\t\t\t\t",
+        "checked":false
+    },{
+        "id":8,
+        "key":"ඇදුම​/පෙනහළු රෝග\t",
+        "checked":false
+    }
+]
